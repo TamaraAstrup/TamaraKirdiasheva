@@ -16,7 +16,6 @@ _Total number of projects in the repository:_ **15 **
 # # Repository structure
 
 ---
-
 ### [Projects Excel]
 ---
 
@@ -32,14 +31,30 @@ The project demonstrates basic skills of working with formulas, development of a
 
 
 
-### [Projects SQL](LINKS)
+### [Projects SQL]
 ---
+
+#### [Factor analysis. Financial portfolio analysis](links)
+A project demonstartes 
+**Tools**: SQL, PostgreSQL 
+
+**Field of activity**: online services
+
+**The main activity**: Data Analyst, Product Analyst, Business Analyst 
+
+#### [Cohort analysis in SQL of online cinema](links)
+
+A project demonstrates...
 
 **Tools**: SQL, PostgreSQL 
 
 **Field of activity**: online services
 
 **The main activity**: Data Analyst, Product Analyst, Business Analyst 
+
+#### [Building a data mart for machine learning](links)
+
+A project demonstrates.... 
 
 ### [Projects Phython](LINKS)
 ---
