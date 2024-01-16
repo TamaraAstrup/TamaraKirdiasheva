@@ -56,7 +56,8 @@ A project demonstrates...
 
 A project demonstrates.... 
 
-### [Projects Phython](LINKS)
+
+### [Projects Phython]
 ---
 
 **Tools**: Python, Pandas, Matplotlib, 
