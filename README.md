@@ -29,7 +29,21 @@ The project demonstrates basic skills of working with formulas, development of a
 **The main activity**: Data Analyst, Business Analyst 
 
 
+#### [Research into the problem of payment system failures](links)
 
+**Tools**: MS Excel, Power Query, Power Pivot, Google Sheets
+
+**Field of activity**: Analytics in the retail sector
+
+**The main activity**: Data Analyst, Business Analyst 
+
+#### [Online cinema +  Developing and Implementing a Calculator of Unit economics](links)
+
+**Tools**: MS Excel, Power Query, Power Pivot, Google Sheets
+
+**Field of activity**: 
+
+**The main activity**:
 
 ### [Projects SQL]
 ---
