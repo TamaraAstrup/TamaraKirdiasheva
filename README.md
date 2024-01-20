@@ -11,23 +11,13 @@ This repository contains projects that I have completed that demonstrate my comp
 So far, this is mainly the work that I independently completed during my training. Workshop course "Data Analytics." 
 However, I plan to actively replenish the portfolio with personal projects..
 
-_Total number of projects in the repository:_ **15 **
+_Total number of projects in the repository:___
 
 # # Repository structure
 
 ---
 ### [Projects Excel]
 ---
-
-#### [Optimizing the Online School Economy: Developing and Implementing a Calculator](links)
-The project demonstrates basic skills of working with formulas, development of a units-economy calculator with key metrics such as CAC, CPA, Retention, LTV, LT, COGS, Margin, and visualization and conditional formatting of the calculator in Excel.
-
-**Tools**: MS Excel, Power Query, Power Pivot, Google Sheets
-
-**Field of activity**: education and management of the economics of online educational institutions
-
-**The main activity**: Data Analyst, Business Analyst 
-
 
 #### [Research into the problem of payment system failures](links)
 
@@ -37,13 +27,16 @@ The project demonstrates basic skills of working with formulas, development of a
 
 **The main activity**: Data Analyst, Business Analyst 
 
-#### [Online cinema +  Developing and Implementing a Calculator of Unit economics](links)
+
+#### [Analysis of the efficiency of the monthly subscription model of the online cinema +  Developing and Implementing a Calculator of Unit economics](links)
+The project demonstrates basic skills of working with formulas, development of a units-economy calculator with key metrics such as CAC, CPA, Retention, LTV, LT, COGS, Margin, and visualization and conditional formatting of the calculator in Excel.
 
 **Tools**: MS Excel, Power Query, Power Pivot, Google Sheets
 
-**Field of activity**: 
+**Field of activity**: online services
 
-**The main activity**:
+**The main activity**: Data Analyst, Business Analyst
+
 
 ### [Projects SQL]
 ---
@@ -68,11 +61,55 @@ A project demonstrates...
 
 #### [Building a data mart for machine learning](links)
 
-A project demonstrates.... 
+A project demonstrates the basic knowledge of ML.
+
+**Tools**: SQL, PostgreSQL 
+
+**Field of activity**: Machine Learning
+
+**The main activity**: Data Analyst, Machine Learning
+
+#### [Model for changing the student balance on the online school](links)
+
+The project demonstrates proficiency in SQL for extracting and aggregating data on transactions and lessons. 
+It also showcases analytical skills for formulating hypotheses, identifying patterns, and determining relationships between data. 
+In addition, it displays proficiency in data visualization tools.   
+
+**Tools**: SQL, PostgreSQL 
+
+**Field of activity**: online services
+
+**The main activity**: Data Analyst,   
 
 
 ### [Projects Phython]
 ---
+
+#### [Project 1](links)
+
+**Tools**: Python, Pandas, Matplotlib, 
+
+**Field of activity**:
+
+**The main activity**: 
+
+#### [Project 2](links)
+
+**Tools**: Python, Pandas, Matplotlib, 
+
+**Field of activity**:
+
+**The main activity**: 
+
+#### [Project 3](links)
+
+**Tools**: Python, Pandas, Matplotlib, 
+
+**Field of activity**:
+
+**The main activity**: 
+
+#### [Project 4](links)
 
 **Tools**: Python, Pandas, Matplotlib, 
 
@@ -81,23 +118,25 @@ A project demonstrates....
 **The main activity**: 
 
 
-### [Projects A/B-testing](LINKS)
+
+### [Projects A/B-testing]
 ---
 
+#### [A/B testing the effectiveness of push notifications in increasing customer purchases](links)
 **Tools**:
 
 **Field of activity**:
 
 **The main activity**: 
 
-### [Projects Power BI](LINKS)
+### [Projects Power BI]
 ---
 
-#### [NAME OF PROJECT](links)
+#### [Power BI](links)
 
 A project demonstrating data pre-processing and dashboard construction skills in Power BI. 
 
-**Tools**:  Power BI
+**Tools**: Power BI
 
 **Field of activity**: 
 
