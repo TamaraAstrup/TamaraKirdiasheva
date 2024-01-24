@@ -16,7 +16,7 @@ _Total number of projects in the repository:___
 # Repository structure
 
 ---
-### [Projects Excel]
+### [Excel Projects]
 ---
 
 #### [Research into the problem of payment system failures](links)
@@ -38,7 +38,7 @@ The project demonstrates basic skills of working with formulas, development of a
 **The main activity**: Data Analyst, Business Analyst
 
 
-### [Projects SQL]
+### [SQL Projects]
 ---
 
 #### [Factor analysis. Financial portfolio analysis](links)
@@ -82,7 +82,7 @@ In addition, it displays proficiency in data visualization tools.
 **The main activity**: Data Analyst,   
 
 
-### [Projects Phython]
+### [Phython Projects]
 ---
 
 #### [Project 1](links)
@@ -129,7 +129,7 @@ In addition, it displays proficiency in data visualization tools.
 
 **The main activity**: 
 
-### [Projects Power BI]
+### [Power BI Projects]
 ---
 
 #### [Power BI](links)
