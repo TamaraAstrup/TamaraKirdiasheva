@@ -13,7 +13,7 @@ However, I plan to actively replenish the portfolio with personal projects..
 
 _Total number of projects in the repository:___
 
-# # Repository structure
+# Repository structure
 
 ---
 ### [Projects Excel]
