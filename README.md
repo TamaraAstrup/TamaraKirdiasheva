@@ -20,6 +20,8 @@ _Total number of projects in the repository:___
 ---
 
 #### [Research into the problem of payment system failures](links)
+The project demonstrates the main skills of working in Microsoft Excel.
+"As part of the analytical project, a study of the problem of failures in the operation of payment systems was conducted. The data was analysed using Microsoft Excel. The main causes of failures were identified, recommendations for their elimination were developed and measures to optimise the operation of payment systems were proposed".
 
 **Tools**: MS Excel, Power Query, Power Pivot, Google Sheets
 
@@ -42,7 +44,9 @@ The project demonstrates basic skills of working with formulas, development of a
 ---
 
 #### [Factor analysis. Financial portfolio analysis](links)
-A project demonstartes 
+A project demonstartes the key skills working with SQL to extract, aggregate and analyse data, understanding of financial ratios and the ability to perform statistical analysis to identify the impact of various factors on portfolio performance. The project investigated the profitability and riskiness of a financial portfolio and carried out factor analysis to identify the main factors affecting portfolio returns. 
+
+
 **Tools**: SQL, PostgreSQL 
 
 **Field of activity**: online services
@@ -51,7 +55,9 @@ A project demonstartes
 
 #### [Cohort analysis in SQL of online cinema](links)
 
-A project demonstrates...
+The project involved analysing user behaviour using SQL. 
+The project examined user visit and purchase data, conducting cohort analysis to identify trends in user behaviour over time.
+Key skills validated in the project include working with SQL to extract and aggregate data, analysing user behaviour, understanding user engagement, retention metrics and churn rate, and the ability to identify trends and patterns in user behaviour data.
 
 **Tools**: SQL, PostgreSQL 
 
@@ -61,7 +67,7 @@ A project demonstrates...
 
 #### [Building a data mart for machine learning](links)
 
-A project demonstrates the basic knowledge of ML.
+The project demonstrates skills in SQL to create databases, tables, run queries and aggregate data, as well as skills in ETL processes to load and clean data. 
 
 **Tools**: SQL, PostgreSQL 
 
@@ -93,6 +99,8 @@ In addition, it displays proficiency in data visualization tools.
 
 **The main activity**: 
 
+
+
 #### [Project 2](links)
 
 **Tools**: Python, Pandas, Matplotlib, 
@@ -100,6 +108,8 @@ In addition, it displays proficiency in data visualization tools.
 **Field of activity**:
 
 **The main activity**: 
+
+
 
 #### [Project 3](links)
 
@@ -123,6 +133,12 @@ In addition, it displays proficiency in data visualization tools.
 ---
 
 #### [A/B testing the effectiveness of push notifications in increasing customer purchases](links)
+
+The project demonstrates the ability to manipulate and analyse data using Phython libraries such as pandas, numpy and scipy.
+Skill in plotting and visualising data using matplotlib or seaborn library.
+Knowledge of working with databases to extract necessary information.
+Skills in scripting and automating processes.
+
 **Tools**:
 
 **Field of activity**:
