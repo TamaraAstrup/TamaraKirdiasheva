@@ -27,7 +27,7 @@ The project demonstrates the main skills of working in Microsoft Excel.
 
 **Field of activity**: Analytics in the retail sector
 
-**The main activity**: Data Analyst, Business Analyst 
+**The main activity**: Data Analysis, Business Analysis
 
 
 #### [Analysis of the efficiency of the monthly subscription model of the online cinema +  Developing and Implementing a Calculator of Unit economics](links)
@@ -37,7 +37,7 @@ The project demonstrates basic skills of working with formulas, development of a
 
 **Field of activity**: online services
 
-**The main activity**: Data Analyst, Business Analyst
+**The main activity**: Data analytics, Business Analysis
 
 
 ### [SQL Projects]
@@ -51,7 +51,7 @@ A project demonstartes the key skills working with SQL to extract, aggregate and
 
 **Field of activity**: online services
 
-**The main activity**: Data Analyst, Product Analyst, Business Analyst 
+**The main activity**: Data analytics, Product Analysis, Business Analysis 
 
 #### [Cohort analysis in SQL of online cinema](links)
 
@@ -63,7 +63,7 @@ Key skills validated in the project include working with SQL to extract and aggr
 
 **Field of activity**: online services
 
-**The main activity**: Data Analyst, Product Analyst, Business Analyst 
+**The main activity**: Data analytics, Product Analysis, Business Analysis
 
 #### [Building a data mart for machine learning](links)
 
@@ -73,7 +73,7 @@ The project demonstrates skills in SQL to create databases, tables, run queries 
 
 **Field of activity**: Machine Learning
 
-**The main activity**: Data Analyst, Machine Learning
+**The main activity**: Data analytics, Machine Learning
 
 #### [Model for changing the student balance on the online school](links)
 
@@ -85,25 +85,26 @@ In addition, it displays proficiency in data visualization tools.
 
 **Field of activity**: online services
 
-**The main activity**: Data Analyst,   
+**The main activity**: Data analytics, Product analysis  
 
 
 ### [Phython Projects]
 ---
 
-#### [Project 1](links)
+#### Analysing the dynamics of taxi aggregator conversions (links)
+
+The project demonstrates basic skills in Phython (importing, cleaning. filtering, ranking, aggregation, analysis and visualisation) to solve AD hoc problems, taxi aggregator (O2R, conversions)
 
 **Tools**: Python, Pandas, Matplotlib, 
 
-**Field of activity**:
+**Field of activity**: online services, Taxi App
 
-**The main activity**: 
+**The main activity**: Data analytics, Product analysis
 
 
+#### [Project 2] (links)
 
-#### [Project 2](links)
-
-**Tools**: Python, Pandas, Matplotlib, 
+**Tools**: Python (Pandas, Matplotlib, pandas, numpy)
 
 **Field of activity**:
 
@@ -115,35 +116,36 @@ In addition, it displays proficiency in data visualization tools.
 
 **Tools**: Python, Pandas, Matplotlib, 
 
-**Field of activity**:
+**Field of activity**: 
 
-**The main activity**: 
-
-#### [Project 4](links)
-
-**Tools**: Python, Pandas, Matplotlib, 
-
-**Field of activity**:
-
-**The main activity**: 
-
+**The main activity**: Data analytics, Product analysis
 
 
 ### [Projects A/B-testing]
 ---
 
-#### [A/B testing the effectiveness of push notifications in increasing customer purchases](links)
+#### Phython for analysing the AB test (links)
 
-The project demonstrates the ability to manipulate and analyse data using Phython libraries such as pandas, numpy and scipy.
-Skill in plotting and visualising data using matplotlib or seaborn library.
-Knowledge of working with databases to extract necessary information.
-Skills in scripting and automating processes.
+The project demonstrates basic A/B test skills in Python, using libraries for statistical analysis such as scipy and statsmodels.
 
 **Tools**:
 
 **Field of activity**:
 
 **The main activity**: 
+
+#### A/B testing the effectiveness of push notifications in increasing customer purchases (links)
+
+The project demonstrates the ability to manipulate and analyse data using Phython libraries such as pandas, numpy and scipy.
+Skill in plotting and visualising data using matplotlib or seaborn library.
+Knowledge of working with databases to extract necessary information.
+Skills in scripting and automating processes.
+
+**Tools**: Phython, pandas, numpy
+
+**Field of activity**:
+
+**The main activity**: Product Analytics
 
 ### [Power BI Projects]
 ---
