@@ -1,1 +1,44 @@
+-- Часть 1.  Результат по всем покупкам с проставленными рангами.
 
+select    count (*) as cnt
+        , is_trial
+        , name_partner
+        , rank_user
+from (
+        select cl.*
+             , name_partner
+             , row_number () over (order by date_purchase) as rn_all
+             , row_number () over (partition by user_id order by date_purchase) as rank_user
+        from skycinema.client_sign_up cl
+             left join skycinema.partner_dict as pr 
+             on cl.partner = pr.id_partner
+    ) t
+    group by is_trial
+            , name_partner
+            , rank_user
+
+-- Часть 2.  Расчет доходимости клиентов по каждому из партнеров.
+select t.*
+      ,cnt_2 / cnt_1 as rr_2 --доходимость клиента от 1-ой до 2-ой покупки
+      ,cnt_3 / cnt_1 as rr_3 --доходимость клиента от 1-ой до 3-ой покупки
+      ,cnt_4 / cnt_1 as rr_4 --доходимость клиента от 1-ой до 4-ой покупки
+      ,cnt_5 / cnt_1 as rr_5 --доходимость клиента от 1-ой до 5-ой покупки
+      ,cnt_6 / cnt_1 as rr_6 --доходимость клиента от 1-ой до 6-ой покупки
+from (
+    select  name_partner
+        , sum(case when rank_user = 1 then 1 else 0 end)::float as cnt_1 --  для  подсчета количества клиентов, дошедших до определенного количества покупок
+        , sum(case when rank_user = 2 then 1 else 0 end)::float as cnt_2
+        , sum(case when rank_user = 3 then 1 else 0 end)::float as cnt_3
+        , sum(case when rank_user = 4 then 1 else 0 end)::float as cnt_4
+        , sum(case when rank_user = 5 then 1 else 0 end)::float as cnt_5
+        , sum(case when rank_user = 6 then 1 else 0 end)::float as cnt_6
+    from (
+        select  cl.*
+               , name_partner
+               , row_number () over (partition by user_id order by date_purchase) as rank_user
+        from skycinema.client_sign_up cl 
+            left join skycinema.partner_dict pr
+                on cl.partner = pr.id_partner
+        ) tt
+    group by name_partner
+    ) t
