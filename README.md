@@ -11,7 +11,6 @@ This repository contains projects that I have completed that demonstrate my comp
 So far, this is mainly the work that I independently completed during my training. Workshop course "Data Analytics." 
 However, I plan to actively replenish the portfolio with personal projects..
 
-_Total number of projects in the repository:___
 
 # Repository structure
 
