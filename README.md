@@ -18,7 +18,7 @@ This repository showcases my completed data analytics projects, primarily from m
 
 - 👨‍💻 All of my projects are available at [https://github.com/TamaraKirdiasheva/TamaraKirdiasheva](https://github.com/TamaraKirdiasheva/TamaraKirdiasheva)
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tamara_Kirdiasheva).[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirdiasheva.tamara@.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tamara_Kirdiasheva)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirdiasheva.tamara@.com)
 
 ---
 
