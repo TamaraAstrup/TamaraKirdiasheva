@@ -1,4 +1,5 @@
 -- Task_1_Research the sampling
+
 -- Build various groupings and study the null values in the sample.
 -- Build the distribution of the number of bonds for each currency.
 -- Build the distribution of the number of bonds for each bond issuу per month.
