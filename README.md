@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Tamara Kirdiasheva
+# Hi 👋, I'm Tamara 
 
 ---
 
