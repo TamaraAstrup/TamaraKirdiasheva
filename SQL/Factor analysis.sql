@@ -47,7 +47,7 @@ from skyfinance.obligation
 select*
 from skyfinance.oblig_dict 
 
--- Task_2 Docoding type of obligation
+-- Task_2 Decoding type of obligation
 -- The *class* field in the *skyfinance.obligation* table shows the bond class (type) identifier.
 -- Decipher the identifiers using the *skyfinance.oblig_dict* table.
 
