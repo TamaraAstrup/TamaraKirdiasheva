@@ -4,21 +4,22 @@
 ---
 
 ### :man_technologist: About me:
+I embarked on a journey into data analytics after working in Regulatory Affairs Medical devices, where I first developed foundational data analysis skills to interpret clinical reports. Through analyzing statistical data and uncovering actionable insights, I realized how impactful data-driven decisions are in shaping research outcomes. This sparked my passion for data analytics.
 
-I came to data analytics from medical devices registration, where I needed basic data analysis skills for interpreting clinical reports. By analyzing and interpreting statistical data, I learned how data insights can impact research outcomes, driving my interest in data analytics.
-
-This repository showcases my completed data analytics projects, primarily from my independent work during my training in the "Data Analytics" course. I aim to continuously expand this portfolio with personal projects.
-
+This repository showcases my completed data analytics projects, including work from my training in the "Data Analytics" course and personal projects. I am dedicated to continually expanding my portfolio with new and innovative analytics work.
 
 </p>
 
-- ⚡ I’m currently looking for **a job as a Data Analyst**
+⚡ Currently Seeking Opportunities:
+I’m actively looking for **a position as a Data Analyst** where I can apply my skills to deliver data-driven solutions.
 
-- 🌱 I’m **successfully finished Data Analyst courses at skypro**
+🌱 Education:
+**Successfully completed the Data Analytics Course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TamaraKirdiasheva/TamaraKirdiasheva](https://github.com/TamaraKirdiasheva/TamaraKirdiasheva)
+👨‍💻 Portfolio:
+Explore all **my projects** here: [https://github.com/TamaraKirdiasheva/TamaraKirdiasheva](https://github.com/TamaraKirdiasheva/TamaraKirdiasheva)
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tamara_Kirdiasheva)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirdiasheva.tamara@.com)
+📫 How to Reach Me: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tamara_Kirdiasheva)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirdiasheva.tamara@.com)
 
 ---
 
