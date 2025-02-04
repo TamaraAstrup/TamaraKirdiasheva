@@ -19,7 +19,7 @@ I’m actively looking for **a position as a Data Analyst** where I can apply my
 👨‍💻 Portfolio:
 Explore all **my projects** here: [https://github.com/TamaraKirdiasheva/TamaraKirdiasheva](https://github.com/TamaraKirdiasheva/TamaraKirdiasheva)
 
-📫 How to Reach Me: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@MedTechRules))[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:astruptamara@gmail.com)
+📫 How to Reach Me: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@MedTechRules)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:astruptamara@gmail.com)
 
 ---
 
